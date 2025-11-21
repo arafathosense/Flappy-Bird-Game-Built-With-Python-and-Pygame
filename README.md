@@ -1,6 +1,7 @@
 **Flappy Bird Game Built With Python and Pygame**
 
 
+If you want to hack the Flappy Bird game and earn unlimited scores, play it really fast, and wow your friends with just a few lines of Python code.
 
 **🧠 Installation & Setup Guide**
 
